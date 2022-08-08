@@ -1,0 +1,8 @@
+prefix=/home/kento/catkin_ws/install
+
+Name: graph_tools
+Description: Description of graph_tools
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

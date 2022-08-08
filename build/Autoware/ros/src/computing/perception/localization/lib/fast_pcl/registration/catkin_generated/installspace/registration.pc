@@ -1,0 +1,8 @@
+prefix=/home/kento/catkin_ws/install
+
+Name: registration
+Description: Description of registration
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lfast_pcl_registration
+Requires: 

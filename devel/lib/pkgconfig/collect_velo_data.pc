@@ -1,0 +1,8 @@
+prefix=/home/kento/catkin_ws/devel
+
+Name: collect_velo_data
+Description: Description of collect_velo_data
+Version: 0.0.0
+Cflags: -I/home/kento/catkin_ws/devel/include
+Libs: -L${prefix}/lib -lcollect_velo_data
+Requires: roscpp rospy geometry_msgs sensor_msgs std_msgs pcl_conversions pcl_ros tf2_ros actionlib actionlib_msgs

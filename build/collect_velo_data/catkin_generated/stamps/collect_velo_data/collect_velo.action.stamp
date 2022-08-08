@@ -1,0 +1,8 @@
+#goal definition
+std_msgs/Bool enable_work
+---
+#result definition
+geometry_msgs/TransformStamped result_rotation
+geometry_msgs/TransformStamped ts_ptu
+geometry_msgs/TransformStamped ts_rs
+---

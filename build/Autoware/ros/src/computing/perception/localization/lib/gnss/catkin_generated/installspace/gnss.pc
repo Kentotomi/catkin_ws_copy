@@ -1,0 +1,8 @@
+prefix=/home/kento/catkin_ws/install
+
+Name: gnss
+Description: Description of gnss
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lgnss
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/kento/catkin_ws/install
+
+Name: ndt_tku
+Description: Description of ndt_tku
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lndt_tku
+Requires: 

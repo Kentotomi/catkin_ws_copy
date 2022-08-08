@@ -1,0 +1,8 @@
+prefix=/home/kento/catkin_ws/install
+
+Name: ptu_tf
+Description: Description of ptu_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lptu_tf
+Requires: roscpp rospy std_msgs tf2_ros
